@@ -1,0 +1,9 @@
+c:\users\steve\documents\visual studio 2015\Projects\DataSourceTest1\DataSourceTest1\bin\Debug\DataSourceTest1.exe.config
+c:\users\steve\documents\visual studio 2015\Projects\DataSourceTest1\DataSourceTest1\obj\Debug\DataSourceTest1.csprojResolveAssemblyReference.cache
+c:\users\steve\documents\visual studio 2015\Projects\DataSourceTest1\DataSourceTest1\obj\Debug\DataSourceTest1.Form1.resources
+c:\users\steve\documents\visual studio 2015\Projects\DataSourceTest1\DataSourceTest1\obj\Debug\DataSourceTest1.Properties.Resources.resources
+c:\users\steve\documents\visual studio 2015\Projects\DataSourceTest1\DataSourceTest1\obj\Debug\DataSourceTest1.csproj.GenerateResource.Cache
+c:\users\steve\documents\visual studio 2015\Projects\DataSourceTest1\DataSourceTest1\bin\Debug\DataSourceTest1.exe
+c:\users\steve\documents\visual studio 2015\Projects\DataSourceTest1\DataSourceTest1\bin\Debug\DataSourceTest1.pdb
+c:\users\steve\documents\visual studio 2015\Projects\DataSourceTest1\DataSourceTest1\obj\Debug\DataSourceTest1.exe
+c:\users\steve\documents\visual studio 2015\Projects\DataSourceTest1\DataSourceTest1\obj\Debug\DataSourceTest1.pdb

@@ -1,0 +1,9 @@
+c:\users\steve\documents\visual studio 2015\Projects\containertest3\containertest3\bin\Debug\containertest3.exe.config
+c:\users\steve\documents\visual studio 2015\Projects\containertest3\containertest3\bin\Debug\containertest3.exe
+c:\users\steve\documents\visual studio 2015\Projects\containertest3\containertest3\bin\Debug\containertest3.pdb
+c:\users\steve\documents\visual studio 2015\Projects\containertest3\containertest3\obj\Debug\containertest3.csprojResolveAssemblyReference.cache
+c:\users\steve\documents\visual studio 2015\Projects\containertest3\containertest3\obj\Debug\containertest3.Form1.resources
+c:\users\steve\documents\visual studio 2015\Projects\containertest3\containertest3\obj\Debug\containertest3.Properties.Resources.resources
+c:\users\steve\documents\visual studio 2015\Projects\containertest3\containertest3\obj\Debug\containertest3.csproj.GenerateResource.Cache
+c:\users\steve\documents\visual studio 2015\Projects\containertest3\containertest3\obj\Debug\containertest3.exe
+c:\users\steve\documents\visual studio 2015\Projects\containertest3\containertest3\obj\Debug\containertest3.pdb
